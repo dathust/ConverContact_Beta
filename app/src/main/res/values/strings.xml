@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactBeta</string>
+    <string name="rate">
+    <a href="www.google.com">Đánh giá</a>
+</string>
+    <string name="feefback">
+    <a href="www.youtube.com">Phản hồi</a>
+</string>
+    <string name="share">
+    <a href="www.facebook.com">Chia sẻ</a>
+</string>
+</resources>
